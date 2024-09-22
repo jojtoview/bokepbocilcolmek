@@ -44,7 +44,7 @@ export default function RootLayout({
             "name":"admin",
             "url":"https://smpbocilcolmek.pages.dev"
             },
-            "foundingDate":"2024-09-16"
+            "foundingDate":"2024-09-22"
         }
         const jsonLd1 = {
             "@context": "https://schema.org",
