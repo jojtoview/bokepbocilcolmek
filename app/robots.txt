@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-sitemap: https://bokepbocilcolmek.pages.dev/sitemap.xml
+sitemap: https://smpbocilcolmek.pages.dev/sitemap.xml

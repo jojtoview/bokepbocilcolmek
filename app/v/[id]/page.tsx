@@ -88,25 +88,25 @@ export default async function Video({ params }: PageProps) {
         headline: `${file.title} - ${SITENAME}`,
         image: file.splash_img,
         description: `${file.title} di ${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma`,
-        url: `https://bokepbocilcolmek.pages.dev/v/${file.filecode}`,
+        url: `https://smpbocilcolmek.pages.dev/v/${file.filecode}`,
         datePublished: new Date(
             file.uploaded + ".000Z"
         ).toISOString(),
         publisher: {
             '@type': 'Organization',
             name: `${SITENAME}`,
-            logo: 'https://bokepbocilcolmek.pages.dev/favicon.ico'},
+            logo: 'https://smpbocilcolmek.pages.dev/favicon.ico'},
             author: {
                 '@type': 'Person',
                 name: 'admin',
-                url: 'https://bokepbocilcolmek.pages.dev'
+                url: 'https://smpbocilcolmek.pages.dev'
               },
         interactionStatistic: {
             '@type': `InteractionCounter`,
                 userInteractionCount: `${file.views}`,
             interactionType: {
                 '@type': `ReadAction`,
-                target: `https://bokepbocilcolmek.pages.dev/v/${file.filecode}`
+                target: `https://smpbocilcolmek.pages.dev/v/${file.filecode}`
             }  
         }
         }
